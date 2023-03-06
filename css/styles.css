@@ -1,0 +1,69 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+  background-image: url(https://previews.123rf.com/images/foryou13/foryou131904/foryou13190400031/123578649-high-tech-technology-geometric-and-white-background-with-digital-data-abstract.jpg);
+  text-align: center;
+  font-size: 15px;
+  font-family:'Outfit', sans-serif;
+}
+
+img{
+  width: 90%;
+  margin: 10px 10px 0 10px;
+  border-radius: 10px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: hsl(220, 15%, 55%);
+}
+.attribution{
+  display: inline-block;
+  position: relative;
+  margin:200px;
+  height: 540px;
+  width: 65%;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.inside-container{
+  background-color: hsl(0, 0%, 100%);
+  display: inline-block;
+  height: 340px;
+  width: 200px;
+  margin:100px 0;
+  border-radius: 20px;
+}
+
+.first-para:hover{
+  color: hsl(212, 45%, 89%);
+}
+
+.second-para:hover{
+  color: black;
+}
+.second-para{
+  font-weight: lighter;
+  color: hsl(220, 15%, 55%);
+  font-size: 0.75rem;
+  width: 92%;
+  margin:10px auto 30px;
+}
+
+.first-para{
+  width: 90%;
+  margin:10px auto 15px;
+}
+.second-container{
+  background-color: #e0ebe8;
+}
+.secondlast-para{
+  padding: 10px 0;
+}
+.last-para{
+  padding: 0 0 10px 0;
+  color: hsl(220, 15%, 55%);
+  font-size: 0.75rem;
+}
